@@ -1,4 +1,6 @@
-Brainwave - A modern UI/UX intensive website for a (FAKE) AI website.
+##Brainwave
+
+A modern UI/UX intensive website for a (FAKE) AI website.
 
 A modern landing page for a (fake) AI business. It uses modern visual tricks like parallax scrolling and the popular new bentobox structure! This website uses the most modern technologies for satisfying UI/UX. Built with React, Vite and Tailwind. 
 
