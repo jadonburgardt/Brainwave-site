@@ -25,3 +25,7 @@ A modern landing page for a (fake) AI business. It uses modern visual tricks lik
 
 View Online Here: https://brainwave-go.netlify.app/
 
+## Tech
+
+React, Vite, Tailwind CSS
+
